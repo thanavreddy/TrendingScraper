@@ -8,7 +8,7 @@ This Python script scrapes the top 5 trending repositories from [GitHub Trending
 - Extracts repository name and direct GitHub link
 - Saves data into a structured CSV file: `trending_repos.csv`
 
-## 📂 Output Format
+## Output Format
 
 The CSV file includes the following columns:
 
@@ -36,7 +36,7 @@ python github_trending_scraper.py
 
 A file named `trending_repos.csv` will be generated in the same directory containing the scraped data.
 
-## 🛠 Built With
+##  Built With
 
 - **Python** - Core programming language
 - **Requests** - HTTP library for making web requests
