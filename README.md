@@ -29,7 +29,7 @@ pip install requests beautifulsoup4
 ### 2. Run the Script
 
 ```bash
-python github_trending_scraper.py
+python scraper.py
 ```
 
 ### 3. Check the Output
